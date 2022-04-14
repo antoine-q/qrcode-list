@@ -1,0 +1,10 @@
+{
+  "name": "qrcode-list",
+  "version": "0.0.1",
+  "description": "Transform a json list into a collection of svg QRcodes",
+  "dependencies": {
+    "qrcode-generator": "^1.4.4"
+  },
+  "author": "Antoine Queru <antoine@queru.fr>",
+  "license": "MIT"
+}
